@@ -63,6 +63,20 @@ Summarizes key findings and recommended business actions.
 - Maintain adequate stock of high-performing products.
 - Prepare inventory and marketing campaigns ahead of Q4.
 
+  ## 📈 Dashboard Pages
+
+### Executive Dashboard
+![Executive Dashboard](executive-dashboard.png)
+
+### Product & Customer Performance
+![Product & Customer Performance](product-customer-performance.png)
+
+### Sales Trends & Time Intelligence
+![Sales Trends](sales-trends.png)
+
+### Business Insights & Recommendations
+![Business Insights](business-insights.png)
+
 ## 👤 Author
 
 **Ayomide Folaranmi**
