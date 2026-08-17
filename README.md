@@ -66,13 +66,13 @@ Summarizes key findings and recommended business actions.
   ## 📈 Dashboard Pages
 
 ### Executive Dashboard
-![Executive Dashboard](executive-dashboard.png)
+![Executive Dashboard](Executive_Dashboard.png)
 
 ### Product & Customer Performance
-![Product & Customer Performance](product-customer-performance.png)
+![Product & Customer Performance](Product_Customer_Performance.png)
 
 ### Sales Trends & Time Intelligence
-![Sales Trends](sales-trends.png)
+![Sales Trends](Sales_Trends.png)
 
 ### Business Insights & Recommendations
 ![Business Insights](Business_Insights.png)
