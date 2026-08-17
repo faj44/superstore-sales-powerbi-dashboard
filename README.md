@@ -1,10 +1,10 @@
 # Superstore Sales Performance Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 An interactive Power BI dashboard analyzing sales performance, profitability, customers, products, regions, and sales trends over time.
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 This project answers key business questions:
 
@@ -16,13 +16,13 @@ This project answers key business questions:
 - How do sales change across months and quarters?
 - How does performance compare with the previous year?
 
-## 🗂️ Dataset
+## Dataset
 
 - Rows: 9,994
 - Columns: 21
 - Tool: Power BI
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Power BI
 - DAX
@@ -30,7 +30,7 @@ This project answers key business questions:
 - Data Visualization
 - Time Intelligence
 
-## 📈 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Executive Dashboard
 Provides an overview of sales, profit, orders, average order value, regional performance, category profitability, and sales trends.
@@ -47,7 +47,7 @@ Analyzes monthly and quarterly sales using:
 ### 4. Business Insights & Recommendations
 Summarizes key findings and recommended business actions.
 
-## 💡 Key Findings
+## Key Findings
 
 - West generated the highest sales.
 - Technology generated the highest profit.
@@ -55,7 +55,7 @@ Summarizes key findings and recommended business actions.
 - Canon imageCLASS 2200 Advanced Copier generated the highest sales revenue.
 - Q4 was the strongest quarter in 2017.
 
-## 📌 Business Recommendations
+##  Business Recommendations
 
 - Investigate what drives the strong performance of the West region.
 - Maintain focus on profitable Technology products.
