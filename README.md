@@ -75,7 +75,7 @@ Summarizes key findings and recommended business actions.
 ![Sales Trends](sales-trends.png)
 
 ### Business Insights & Recommendations
-![Business Insights](business-insights.png)
+![Business Insights](Business Insights.png)
 
 ## 👤 Author
 
